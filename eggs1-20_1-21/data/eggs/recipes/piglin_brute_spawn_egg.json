@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "item": "minecraft:golden_axe"
+    }
+  },
+  "result": {
+    "item": "minecraft:piglin_brute_spawn_egg"
+  }
+}

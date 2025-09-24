@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "item": "minecraft:tropical_fish"
+    }
+  },
+  "result": {
+    "item": "minecraft:tropical_fish_spawn_egg"
+  }
+}

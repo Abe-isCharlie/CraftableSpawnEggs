@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "item": "minecraft:pufferfish"
+    }
+  },
+  "result": {
+    "item": "minecraft:pufferfish_spawn_egg"
+  }
+}

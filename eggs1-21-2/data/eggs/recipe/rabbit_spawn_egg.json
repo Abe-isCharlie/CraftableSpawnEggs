@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": "#minecraft:eggs",
+    "E": "minecraft:rabbit_hide"
+  },
+  "result": {
+    "id": "minecraft:rabbit_spawn_egg"
+  }
+}

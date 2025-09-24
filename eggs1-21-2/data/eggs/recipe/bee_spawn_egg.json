@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": "#minecraft:eggs",
+    "E": "minecraft:honeycomb"
+  },
+  "result": {
+    "id": "minecraft:bee_spawn_egg"
+  }
+}
