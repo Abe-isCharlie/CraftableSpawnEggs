@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "item": "minecraft:turtle_scute"
+    }
+  },
+  "result": {
+    "item": "minecraft:turtle_spawn_egg"
+  }
+}

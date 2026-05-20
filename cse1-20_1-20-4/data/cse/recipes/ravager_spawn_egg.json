@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "item": "minecraft:ominous_bottle"
+    }
+  },
+  "result": {
+    "item": "minecraft:ravager_spawn_egg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "item": "minecraft:powder_snow_bucket"
+    }
+  },
+  "result": {
+    "item": "minecraft:stray_spawn_egg"
+  }
+}

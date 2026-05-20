@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "item": "minecraft:lily_pad"
+    }
+  },
+  "result": {
+    "item": "minecraft:tadpole_spawn_egg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "item": "minecraft:pearlescent_froglight"
+    }
+  },
+  "result": {
+    "item": "minecraft:frog_spawn_egg"
+  }
+}

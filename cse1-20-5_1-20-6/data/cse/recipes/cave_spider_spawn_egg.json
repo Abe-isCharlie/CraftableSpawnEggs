@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "item": "minecraft:fermented_spider_eye"
+    }
+  },
+  "result": {
+    "id": "minecraft:cave_spider_spawn_egg"
+  }
+}

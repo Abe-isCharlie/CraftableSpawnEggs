@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "item": "minecraft:warped_fungus_on_a_stick"
+    }
+  },
+  "result": {
+    "id": "minecraft:strider_spawn_egg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:egg",
+    "E": "minecraft:saddle"
+  },
+  "result": {
+    "id": "minecraft:horse_spawn_egg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:egg",
+    "E": "minecraft:cod"
+  },
+  "result": {
+    "id": "minecraft:cat_spawn_egg"
+  }
+}

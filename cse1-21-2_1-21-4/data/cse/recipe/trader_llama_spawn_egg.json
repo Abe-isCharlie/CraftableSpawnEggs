@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:egg",
+    "E": "minecraft:lead"
+  },
+  "result": {
+    "id": "minecraft:trader_llama_spawn_egg"
+  }
+}

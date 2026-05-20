@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "item": "minecraft:crimson_fungus"
+    }
+  },
+  "result": {
+    "id": "minecraft:hoglin_spawn_egg"
+  }
+}

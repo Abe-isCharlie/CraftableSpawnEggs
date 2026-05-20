@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "item": "minecraft:jungle_leaves"
+    }
+  },
+  "result": {
+    "id": "minecraft:ocelot_spawn_egg"
+  }
+}

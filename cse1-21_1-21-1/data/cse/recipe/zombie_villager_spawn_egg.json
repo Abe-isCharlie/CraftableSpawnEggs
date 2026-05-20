@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "id": "minecraft:zombie_villager_spawn_egg"
+  }
+}

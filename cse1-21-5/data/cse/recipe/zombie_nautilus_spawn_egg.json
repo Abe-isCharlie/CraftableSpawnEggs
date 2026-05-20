@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": "#minecraft:eggs",
+    "E": "minecraft:dried_kelp"
+  },
+  "result": {
+    "id": "minecraft:zombie_nautilus_spawn_egg"
+  }
+}

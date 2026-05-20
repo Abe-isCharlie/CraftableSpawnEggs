@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "E": {
+      "tag": "minecraft:wool_carpets"
+    }
+  },
+  "result": {
+    "id": "minecraft:llama_spawn_egg"
+  }
+}

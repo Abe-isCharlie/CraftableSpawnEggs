@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:egg",
+    "E": "minecraft:bone"
+  },
+  "result": {
+    "id": "minecraft:wolf_spawn_egg"
+  }
+}
